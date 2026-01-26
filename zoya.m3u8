@@ -1,0 +1,76 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",ТВ3
+http://85.192.10.131/hls/tv3/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Феникс+Кино
+http://86.57.209.210/Fenix/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan",Россия К
+http://95.47.156.60:8000/play/6/index.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Россия К+1
+http://85.192.10.131/hls/kultura/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Россия 24
+http://77.232.131.211/Rossiya24/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/3N8Rc8tq/1.png",ИНТЕРНЫ
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg",Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Мосфильм. Золотая коллекция
+http://5.8.11.96:8099/mosfilmhd/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Ностальгия
+http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
+#EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=egdasTXOsh0CMbqmh3iq_w&e=2066476376&scheme=https
+#EXTINF:-1 group-title="NNT",Рен ТВ
+http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="IP Petrosyan",Рен ТВ+1
+http://95.47.156.60:8000/play/11/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan",НТВ
+http://95.47.156.60:8000/play/4/index.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",НТВ+1
+http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
+#EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=fFnAVoI5JfWgyDovBWYmOw&e=2066476377&scheme=https
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://img15.lostpic.net/2019/08/31/f0a38112fc67c1308e59d9ceb78ebd40.png",ННТВ
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1 group-title="NNT",Домашний
+http://45.145.32.13:20440/domashnij/index.m3u8?token=test
+#EXTINF:-1 group-title="IP Petrosyan",МИР
+http://95.47.156.60:8000/play/18/index.m3u8
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",МИР 24
+http://194.143.148.28:8080/Mir24/mpegts
+#EXTINF:-1 group-title="NNT",Русский иллюзион
+http://45.145.32.13:20440/ocean_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="Таттелеком (VPN)",СТС
+http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",ТВЦ
+http://85.192.10.131/hls/TvciRu/playlist.m3u8
+#EXTINF:-1 group-title="Диджитал Нетворк (VPN)",Звезда
+http://85.192.10.131/hls/zvezda/playlist.m3u8
+#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Шоу Бенни Хилла
+https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png",Зоо
+http://iptv.prosto.tv:7000/ch319/video.m3u8
+#EXTINF:-1 group-title="Сайт (VPN)",Зоопарк
+http://193.25.8.59:8000/zoo
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg",Подводный мир
+http://iptv.prosto.tv:7000/ch305/video.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="http://www.1muz.com/images/LOGORUS.png",Первый музыкальный
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.shanson.tv/i/logo_191112.png",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов",КТК
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Легендарный 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 group-title="Сайт (VPN)",Дом Кино
+http://193.25.8.59:8000/domkino
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2578.png",Хабар 24
+https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/tracks-v1a1/mono.m3u8
