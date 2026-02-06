@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Карусель
-http://77.232.131.211/Karusel/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Tiji
-http://193.27.209.122/tiji/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Супергерои
-http://86.57.209.210/Malish/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Мульт
-http://86.57.209.210/Mult/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Пингвин Лоло
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Мамонтёнок
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Детский телеканал Мультимания
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",ТВ3
-http://86.57.209.210/TB-3/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Феникс+Кино
-http://86.57.209.210/Fenix/index.m3u8
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=2yZlP7LxVtaIwXycvj9XZA&e=2066476375&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
@@ -458,4 +438,5 @@ http://193.25.8.59:8000/tntcomedy
 #EXTINF:-1 group-title="Сайт (VPN)",Galaxy
 http://193.25.8.59:8000/galaxy
 #EXTINF:-1 group-title="Сайт (VPN)",История
+
 http://193.25.8.59:8000/History
