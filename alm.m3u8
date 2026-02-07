@@ -247,12 +247,6 @@ https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=6a
 https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=YE8EGjkcTtV_qa-Tvrqrvw&e=2066476511&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Dubai Sports 2
 https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=UXWP0xAwWjiNgZj6RSy1mg&e=2066476512&scheme=https
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
-http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV.COM
-http://45.145.32.13:20440/mmatv/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорткомплекс 🏆",КХЛ ТВ
-http://45.145.32.13:20440/telekanal_khl/index.m3u8?token=test
 #EXTINF:-1 group-title="TEST ⓵",Россия К
 http://86.57.209.210/Kultura/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",TV1000 action
@@ -448,6 +442,7 @@ http://193.25.8.59:8000/galaxy
 #EXTINF:-1 group-title="Сайт (VPN)",История
 
 http://193.25.8.59:8000/History
+
 
 
 
