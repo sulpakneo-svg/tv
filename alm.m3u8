@@ -13,6 +13,8 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=BN
 https://bl.rutube.ru/livestream/d90aa86cc5b1d4a7b310c85debcee474/index.m3u8?s=PrdajeY8zN9vUpr6IpApUA&e=2066476381&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТВ3 HD
 https://bl.rutube.ru/livestream/ff99b4d6cc81635fdcd094af044d8d96/index.m3u8?s=Eqe8L6PCoPQ0gslNu8xSnA&e=2066476382&scheme=https
+#EXTINF:-1 group-title="TEST ⓵",Nat Geo Wild HD
+http://188.237.47.212:6005
 #EXTINF:-1 group-title="Rutube (VPN)",2x2
 https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=qrrTxbE8AramRsFA98Yxaw&e=2066476383&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Суббота
@@ -440,3 +442,4 @@ http://193.25.8.59:8000/galaxy
 #EXTINF:-1 group-title="Сайт (VPN)",История
 
 http://193.25.8.59:8000/History
+
