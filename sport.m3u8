@@ -11,10 +11,6 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",SPORT 2 HD
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",KHL HD
-http://86.57.209.210/KHL_HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",КХЛ ТВ
-http://45.145.32.13:20440/telekanal_khl/index.m3u8?token=test
 #EXTINF:-1 group-title="TEST-SPORT 🏆",КХЛ
 http://gr.seetv.cc/play/149/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="TEST-SPORT 🏆",KHL Prime
@@ -266,3 +262,4 @@ http://gr.seetv.cc/play/4233/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/4234/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="TEST-SPORT 🏆",BOX SportCast Live 9 HD
 http://gr.seetv.cc/play/4235/D70CC021CA87DF2/video.m3u8
+
