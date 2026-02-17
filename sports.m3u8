@@ -73,16 +73,12 @@ http://gr.seetv.cc/play/1650/D70CC021CA87DF2/video.m3u8
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Спорт Арена
 http://45.145.32.13:20440/match_arena/index.m3u8?token=test
-#EXTINF:-1 group-title="SPORT 🏆",Viasat Sport
-http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
 #EXTINF:-1 group-title="SPORT 🏆",Sport 1 HD
 http://87.246.54.249:8080/ArenaSport1/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Sport 2 HD
 http://87.246.54.249:8080/ArenaSport2/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Sport 3 HD
 http://87.246.54.249:8080/ArenaSport3/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",NovaSport
-http://87.246.54.249:8080/NovaSport/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",MaxSport1 HD
 http://87.246.54.249:8080/MaxSport1/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",MaxSport2 HD
@@ -109,8 +105,6 @@ http://185.132.134.159:80/sport5/index.m3u8
 http://185.132.134.159:80/sport6/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",SporTV HD Pt (Португалия)
 https://02.arlivre.online/sportv/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Спорт Страна
-http://45.145.32.13:20440/match_strana/index.m3u8?token=test
 #EXTINF:-1 group-title="SPORT 🏆",SporTV 2 HD Pt
 https://02.arlivre.online/sportv2/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",SporTV 3 HD Pt
@@ -179,8 +173,6 @@ http://gr.seetv.cc/play/315/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/77/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Viju+ Sport HD
 http://gr.seetv.cc/play/198/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Окко Спорт HD
-http://gr.seetv.cc/play/7337/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Окко.Прайм Спорт
 http://gr.seetv.cc/play/1833/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Старт Триумф HD
@@ -262,3 +254,4 @@ http://gr.seetv.cc/play/4233/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/4234/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",BOX SportCast Live 9 HD
 http://gr.seetv.cc/play/4235/D70CC021CA87DF2/video.m3u8
+
