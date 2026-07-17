@@ -41,8 +41,6 @@ http://77.232.131.211/Rossiya24/index.m3u8
 http://77.232.131.211/RUTV/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/v8KFj826/1.png",IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="TEST (VPN)",Мосфильм. Золотая коллекция
-http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Звезда (+4)
 http://vod.tuva.ru/zvezda/index.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc",Ностальгия
